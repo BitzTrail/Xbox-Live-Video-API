@@ -3,8 +3,8 @@
     "public": false,
     "version": 2,
     "env": {
-        "XBL_EMAIL": "@xbl-email",
-        "XBL_PASSWORD": "@xbl-password"
+        "XBL_EMAIL": "arvs47@outlook.com",
+        "XBL_PASSWORD": "Arjun47@microsoft"
     },
     "builds": [
         {
